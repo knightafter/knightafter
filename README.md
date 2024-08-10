@@ -10,6 +10,6 @@ I build Android Apps and always trying to solve the problems with the shape of A
 
 -Android Studio
 
-❤ I love HTML & CSS.
+❤ First lanugages that I have learned are HTML, CSS and C++.
 
 Keep check my Android Apps and give me feedback how good they are and what need's to improve.
