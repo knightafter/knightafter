@@ -1,4 +1,4 @@
-Hi there, I'm Ahad 👋 from Pakistan ![image](https://github.com/user-attachments/assets/c2fc9d31-0563-4a28-8654-f115ed00fa80)
+I'm Ahad
 
 I build Android Apps and always trying to solve the problems with the shape of App.
 
